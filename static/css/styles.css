@@ -1,0 +1,16 @@
+.container {
+    background: #f4f4f4;
+    margin: 2em auto;
+    padding: 0.8em;
+    width: 45%;
+    border: 2px solid #000;
+    text-align: center;
+}
+
+.flash, .error {
+    background: #000;
+    color: #fff;
+    padding: 0.5em;
+}
+
+
